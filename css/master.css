@@ -1,0 +1,15 @@
+body{
+  background-color: #ffcccc;
+  font-family: sans-serif;
+  background-image: url("hi.jpg");
+  background-repeat: no-repeat;
+  background-position: left center;
+  padding-top:68px;
+  margin-bottom:50px;
+}
+
+ul li{
+list-style: none;
+color: #cc0000;
+font-size: 20;
+}
